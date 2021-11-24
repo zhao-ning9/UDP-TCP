@@ -1,0 +1,14 @@
+C:\Users\86151\source\repos\receive\bin\Debug\receive.exe.config
+C:\Users\86151\source\repos\receive\bin\Debug\receive.exe
+C:\Users\86151\source\repos\receive\bin\Debug\receive.pdb
+C:\Users\86151\source\repos\receive\obj\Debug\receive.csprojAssemblyReference.cache
+C:\Users\86151\source\repos\receive\obj\Debug\receive.csproj.CoreCompileInputs.cache
+C:\Users\86151\source\repos\receive\obj\Debug\receive.exe
+C:\Users\86151\source\repos\receive\obj\Debug\receive.pdb
+E:\嵌入式、通信、人工智能\vs\receive\bin\Debug\receive.exe.config
+E:\嵌入式、通信、人工智能\vs\receive\bin\Debug\receive.exe
+E:\嵌入式、通信、人工智能\vs\receive\bin\Debug\receive.pdb
+E:\嵌入式、通信、人工智能\vs\receive\obj\Debug\receive.csprojAssemblyReference.cache
+E:\嵌入式、通信、人工智能\vs\receive\obj\Debug\receive.csproj.CoreCompileInputs.cache
+E:\嵌入式、通信、人工智能\vs\receive\obj\Debug\receive.exe
+E:\嵌入式、通信、人工智能\vs\receive\obj\Debug\receive.pdb

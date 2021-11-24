@@ -1,0 +1,10 @@
+E:\嵌入式、通信、人工智能\vs\port_scan\bin\Debug\port_scan.exe.config
+E:\嵌入式、通信、人工智能\vs\port_scan\bin\Debug\port_scan.exe
+E:\嵌入式、通信、人工智能\vs\port_scan\bin\Debug\port_scan.pdb
+E:\嵌入式、通信、人工智能\vs\port_scan\obj\Debug\port_scan.csprojAssemblyReference.cache
+E:\嵌入式、通信、人工智能\vs\port_scan\obj\Debug\port_scan.Form1.resources
+E:\嵌入式、通信、人工智能\vs\port_scan\obj\Debug\port_scan.Properties.Resources.resources
+E:\嵌入式、通信、人工智能\vs\port_scan\obj\Debug\port_scan.csproj.GenerateResource.cache
+E:\嵌入式、通信、人工智能\vs\port_scan\obj\Debug\port_scan.csproj.CoreCompileInputs.cache
+E:\嵌入式、通信、人工智能\vs\port_scan\obj\Debug\port_scan.exe
+E:\嵌入式、通信、人工智能\vs\port_scan\obj\Debug\port_scan.pdb
